@@ -1,0 +1,656 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "The Forum Mall, 21-22, Adugodi Main Road, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9346323,
+               "lng" : 77.61130229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9359181802915,
+                  "lng" : 77.61267823029151
+               },
+               "southwest" : {
+                  "lat" : 12.9332202197085,
+                  "lng" : 77.6099802697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "11bff5aef579cc2b87835a6f48368cabc3880bd9",
+         "name" : "PVR Cinemas",
+         "photos" : [
+            {
+               "height" : 477,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110653304477704570259/photos\"\u003esebin zacharias\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZlORCNZVj-gHUg3G0AfFCDm3DAwNkarIar4XV__WZKEieJ1PNbRRke9aNxnR-ub5DDVaA5ru_nCckzKL-woqqDKyaIeOW8GKXhGrbWv4Y7vbieD1oK2eMAWNKQEy4-pOEhD6YGPqQ23LeN1mICCIoLZcGhRCkUxyxpBt0D2ImEgIhSO_MQU8OA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJO_zpj00UrjsRXS55DWfGeac",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAxAyq-o2yxtTa74htNP95MK9W4_Lee2XBhp9z0s07hO3kqN5nc_pz5v74xuP5E4Fa7GtYyCqsf2qNzO3Pnr9NtXz_U4ZcYNg-5Lm7vOQOXdpwSzrg6Z8wC-GjEjNODLF-EhC5NgXJLu69d3it3dp3A58hGhSV9zbyUCpUNkVFu7tE4zKPruUuGQ",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9432719,
+               "lng" : 77.61767829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9446595302915,
+                  "lng" : 77.6190122802915
+               },
+               "southwest" : {
+                  "lat" : 12.9419615697085,
+                  "lng" : 77.61631431970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "de89deb50561098fac6d199a02529fe27866cb4f",
+         "name" : "Shiva Theater Complex",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103456270345247641117/photos\"\u003eNarayanan Krishnaswamy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApkW_EBfLxkZ6WQTHNpMc1CmMrUXxkDAp3Y4C0B8Q0y1lY74zf6lpAgX4G_3r2tQRA6BiS9J_7UzJUKeCAIrw3v9YnRNMfiJsYEPcUPn02ALkbQIw6Hqpqpw4sWWbjVt6EhBFiP7F2BKyJKKYbNsKxHc3GhQyJXnoXGvWxk_oQ9bILTH-JO5rfw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJIYjBXUgUrjsRKhtFsCwRKac",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAfwnXYLXphjo9pfTRlrJcHMqhEK-fT7vxEAmTZv6lutl9nVCXpDzWTupvvlY7bGSbUKmVmyZ5HOV_ECzxqO8frm2hOWsVRG98t94l9bQpI0Zu4o1m5eHSQruX3HT9gyM8EhByKBeORYKAmIvUhwZILg5HGhR1sBMEW2oI-Z5q6TMXk_V1BlYvHw",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "314 B, 20th Main Road, 8 Block, Koramangla, Koramangla, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9377841,
+               "lng" : 77.61856619999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9391330802915,
+                  "lng" : 77.6199151802915
+               },
+               "southwest" : {
+                  "lat" : 12.9364351197085,
+                  "lng" : 77.61721721970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "9cbfb43af505c83f5460b9096ac36179e6829f8a",
+         "name" : "Cinema Paradise",
+         "place_id" : "ChIJJ2niXUYUrjsRPnnqp6pg-xk",
+         "reference" : "CmRRAAAAzDdn64prlGG2I1FCCDT9bQ0lXRpey78qO8LE1_DVFMacJO2xBc0EXP6VV7cwdbOne5lEw0gAA1oWf2PtJ2HFYuqqEPaXPf8IWgGOZSaCcebcqot5juVSPDTTqtD_BG1sEhCcURmT9Yht0pRJc9MdWhF2GhQSFQnW81FCnYyBXGKRxiggHbTpiw",
+         "types" : [ "movie_theater", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1st Main, S.G.Palaya, Behind Christ College, Bengaluru, Karnataka 560029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9317987,
+               "lng" : 77.6074098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9331911802915,
+                  "lng" : 77.60873193029151
+               },
+               "southwest" : {
+                  "lat" : 12.9304932197085,
+                  "lng" : 77.60603396970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "0107bded5e5fce2900a8ef62d4376575051d9c01",
+         "name" : "Srinivasa Theatre",
+         "photos" : [
+            {
+               "height" : 1060,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113260592909637407605/photos\"\u003eSrinivasa Theatre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAmAvuArZchBICEe8FXENkqf0RfFiB55YCEcQJnlXUdnr-qXzS7AvrImMzDoMO1d2P0JfnxJn2oJoKYLeF-s801xyoHbsJk6vi0YGBv8aSP8q2WUudPv7cq7aBq3Y0D8_7EhAQJX1ystVtpTjDaHe9sQCUGhQeKkGUL-UlqSHtSFUGXsI6Tokydg",
+               "width" : 1064
+            }
+         ],
+         "place_id" : "ChIJ97iuMq0VrjsR-RHKM4rfIzo",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAdluhONjzIsu-SeBbLYES24enB_F5fukQM0v7kT84zWMMp_vzGVkaSvv6bFjSACj7G1PrCYOcO5KbrIIoJqfkzgw-yAwSjV_0Z4btmhcZkR7MB5rFlpcBk-2koxDELVsREhAiy5UOw_VGbxQ7-JmbQpXXGhSvo1zM9XaK-7meXmFrqmjzLcLo0g",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Ejipura Main Rd, Gowda Muniswamy Garden, Ejipura, Bengaluru, Karnataka 560047, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9512393,
+               "lng" : 77.6221656
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9526698802915,
+                  "lng" : 77.62353883029151
+               },
+               "southwest" : {
+                  "lat" : 12.9499719197085,
+                  "lng" : 77.6208408697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "0a0c6448a5ffc06407cf2c9561868889bbbf2e40",
+         "name" : "Ravi Cinemas",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111974784994078864460/photos\"\u003eakshith joe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv0IIpXsL1HBKDDqVn633F9WYqS8Vbp-QYlIJwkTdMMH4PF557wqRpi_RclsmVFnd9zD6RfBxGErsp4ft0ro71zZi319h3WMZwTxDjc_-BtbshRsLnwLR1YUHKRVRk54VEhCgwN94PtoK-mB8EPS-6pZbGhR6U-plnG0eNFlyr2tbMkhQ8g3ucA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ6fgdgjkUrjsR-Hh55GvqkxI",
+         "rating" : 3.1,
+         "reference" : "CmRRAAAARczDvcysFErVQs-D-9KW5uNf2yRFzXGytbj1ONCa6WzYxGBy-S9G_o1tj-qMfErmnO3eExrQkJqgdVlDs8E2b9wd4brr5AnJl4WO-mrMd2xplIIS19yNghdtPTX0x6i2EhCJ8twgjEBH-Yb-TuS9XWPkGhSCyQIm5VcEgBD5hjSZv6VGKLktjw",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "104/1, Tavarekere Main Road, Balaji Layout, Near Forum Mall, Bengaluru, Karnataka 560029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.925242,
+               "lng" : 77.60775009999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9265196802915,
+                  "lng" : 77.60918973029149
+               },
+               "southwest" : {
+                  "lat" : 12.9238217197085,
+                  "lng" : 77.60649176970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "7644055c053fc8f383dbc1c921d6e87b5970d210",
+         "name" : "Lakshmi Theatre",
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118083725202559380526/photos\"\u003eRaghavendra Y\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-4Ek5eiKcRgcQGM0V2shM5uy7rjvihrOwQbd8I8eSqlsc3R4pdsed3yWvjcdY3YAZjOt_x4n1THvTBq_YEQbUdvudsA8ZSO3X0lVvZxNlYqELbt6TgXfY2FOozOLqYH8EhDSKwftykoNyKdi76K9XFGMGhQKGKpXJZY2eV2Kj-VWtF-ED0Ghtg",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJK1rw1KoVrjsRwBfz4lUlFXY",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAO8U5dUc-SezcojscAEJeHNGBp1XCQfVujZgpnJSblOWjr-t0un9FcBl0IoQk25L7SKr1jToJPi3otXO7QtsbMk3ukcA0_z3au9gi4ldOn72IHnQaFmD78e8z7gyl0FKjEhAwjLZBRl2T0zXci1-irKyXGhR1H0vmua98PhnMbWO-dfPowInQQg",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "162, 24th Main, Sector 1, Near-B D A Complex, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.919912,
+               "lng" : 77.64968560000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9213349302915,
+                  "lng" : 77.65083763029151
+               },
+               "southwest" : {
+                  "lat" : 12.9186369697085,
+                  "lng" : 77.6481396697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "4d55441f839f0b63fe2bed60bf4c3af29cfeafa1",
+         "name" : "Sri Tirumala",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108949789760331831377/photos\"\u003eGirish T\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-qseFIs8cRuTlnLW8n_afnDW2VS5D4MKnW7GAQ2UuHjuUtB2Lw10PC-ttsgRGfC6xttbxUmePGLXvkLr6OzM5UJSHStCbd6dfiewa3o1OiIJqFFtmcWfQD1zleqOKTpSEhCnizJhQmlsEbfhuADKRORFGhQoGRnO59po574kbRKxpaqnP-hXCA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ_yfCQYEUrjsRGCYn2XCms4o",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAUBzphgXmPNsujomtv_wtCydhfTGZ1A9oMmyTWCovmg7RSc5J18JYbHuxqQjlIFxqa602DF0IBB12KwEhzJ2cB9LHwwxl6f_dzb5z-XEM9JaPYzotM_KAueDGwbfIjQk9EhAxnMuBCVoh6BwLYo0w9vIHGhS5ysg3UIHvpxIHsgjK-xhJ-Knn-Q",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "# 198/1, 1st Block, Jakkasandra Extension, 2nd Cross, Koramangala, Near House Infosystems, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9320804,
+               "lng" : 77.6289632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9334293802915,
+                  "lng" : 77.6303121802915
+               },
+               "southwest" : {
+                  "lat" : 12.9307314197085,
+                  "lng" : 77.62761421970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "198b4c5ef277acfa1702c3f5dedf5b265fb85199",
+         "name" : "Thomson & Vens Creatives",
+         "place_id" : "ChIJNQyloF0UrjsRwEc2Dd3lr7U",
+         "rating" : 4,
+         "reference" : "CmRSAAAA1RaaH_EBHFiGqogxjl4DRCbUchkECsQJgFulGZ58uMIfKLmKjzi8oH9J3VR4bvaZjmZPDyDX6XKSxP8cVS7OsBQ1njcTG3CBVJJUfRA2iv1VT-iexVRkbNDEKkYI6bQHEhA5XNMKtgz_oj62lhJysW9_GhQMeG8lccgUZgLGkKM3PcZJkDjd1A",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hosur Main Road, Adugodi, Adugodi Main Rd, Koramangala 8 Block, Koramangala, Bengaluru, Karnataka 560030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.941054,
+               "lng" : 77.618033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9423830802915,
+                  "lng" : 77.6193787302915
+               },
+               "southwest" : {
+                  "lat" : 12.9396851197085,
+                  "lng" : 77.61668076970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "a831dd15f2c40c7646af7f38cbb749f2e28ac1a1",
+         "name" : "Radha Krishna",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100937713280858607426/photos\"\u003elakshmipathi bmp\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJe0eniSpwU6qUT0YtdPgZ0j9F2veqFL_n0SOketgaUjT7SEN_3nLiKMw_6W7OjpkhPEH6N3BZiyB-xIy0zjKLoN37BSE0tLWqlKziEnoclFVI_aX3kM2FjLrVT7jjPmaEhDLHTDUaHM2g5cpUhbFSG9pGhQ_T9nPQpD1F8avU1GHCgBCDnnPZQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJQzgjuUgUrjsR2D-4GnUGtW8",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAAHc647jXUZbYg2YIeyph_hEWffwsxC5sQ8OjRc92JoPKkbGs9UUsnLXJviBdbIGGCTcNAtMVSSZovz5dwhJmEzpXEA7kNoBzo4IEMTdy4FNiWMGa0t-g8qDzAlvVNGGIBEhCYECt4_x1jmO5qQjopiylHGhRAlBP2_-t6u_Vr133D_Qk3aB3pBg",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "36th Cross Road, Near Jal Bhavan, Bengaluru, Karnataka 560029, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9233859,
+               "lng" : 77.5989379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9246069802915,
+                  "lng" : 77.6001656802915
+               },
+               "southwest" : {
+                  "lat" : 12.9219090197085,
+                  "lng" : 77.59746771970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "306099a39b0e01efc465ea2782d34e0018069522",
+         "name" : "Maheshwari Theatre",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112006573695750769164/photos\"\u003ejohn cena awx\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW17BwRmOIWljY5xbwNlzdrpnOdisq3QyUJ0LVc16-08w2CF2rINZc_nH_yJ0AgsRA-cqxNcxr2RjZiRloFi8wj-ChIeyK7FG8cB-EsD3WuKlPBc7HQQMI2Chhd5wPqvOEhD8fhvGSMgW5e7ZZaQ7I_qPGhT1z_Hn-6IkTfIp9XPnySgHNo4odw",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJrwVHNKgVrjsRAA5D_8TWnoA",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAZUb8iToU1YDzCRrFoHvT1cq-xuSBcA9C50pw-XYJSwrk3fx5fL8hiHQrWqa7zBi_xRhc93-Xyz5v7dYLdEhvkVUcUg3Zv0yFSbdaEjMud5wH7LDQHDpVEJtGyBZL5MoXEhDFhbYM0CcGhvsjDnPDt06gGhTe-_DojcxqHL-stLrFMpFMZQIDiA",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "756, 18th Main Rd, Indiranagar, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9387256,
+               "lng" : 77.62199099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9402081802915,
+                  "lng" : 77.62315713029149
+               },
+               "southwest" : {
+                  "lat" : 12.9375102197085,
+                  "lng" : 77.62045916970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "5daced47364170b5f8ec1a2c6bb785ac49480746",
+         "name" : "Dayanandasagar",
+         "place_id" : "ChIJnxcRtUUUrjsRQL2E_zxNuOY",
+         "reference" : "CmRSAAAAPPnVXIt3Fn6GHr-uIz5RKnRq4Cg8cHXg1_sQxaKYSezr1jP6WIsHcpDdZ82yjk74VfVwjerJJvaogASADk-0-lSIl91xYXF1kl5LsQioUWx7WmT6oFACOnKzFqkQhydzEhAFfEHn-g-QWlDFUbdlm-d6GhTnDTcb67u6rTVIAJtZezE2i49qAg",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Vannarpet, K V Temple Street, Vivek Nagar, Bengaluru, Karnataka 560047, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9568635,
+               "lng" : 77.6194445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9582150802915,
+                  "lng" : 77.62061158029151
+               },
+               "southwest" : {
+                  "lat" : 12.9555171197085,
+                  "lng" : 77.6179136197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "567670c974dfff16d252d32efbf872c526a58071",
+         "name" : "Sri Balaji Theatre",
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107336188543999441135/photos\"\u003edevanand subbaraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAG2Qi1kblMM0tiDZxcThlsrIszl5HrcbndXvYQkLHLD29Gc71PON3AFXoUk4Pdft_h2-K6MM0IUq22l5XGE3kO0qLMPghDyg29tEAq2Y1yNF9-rQDgBDVab9SVFI_WHEnEhCpRxhjM3UeLTbBUiKOID-cGhQ3TvnRF4yJWTgF2hUSYYJTyBzzQQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJE8R9PncWrjsROov8MHUdI4k",
+         "rating" : 3.1,
+         "reference" : "CmRSAAAA-lsPDnZE0YoLfH9OWGp3ZXWyb73dXUVLCrwFbpn1r2udtQm_4J2_6apaKkZLlL6AKdp1vs_34hQLKl_xJc4xPS5KeWFlorhRz6iH4Y5DqwfUQFNc8xn7Od1ys-Y0i2OjEhDNEltmo9fkOpcrG5h1LGz9GhQkvgmzdZpPhJQMwGvLKvWR4KLhAA",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Apoorva Building, 85/2-2, 5th Cross Rd, Maruthi Nagar, 1st Stage, BTM Layout, Bengaluru, Karnataka 560068, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.926225,
+               "lng" : 77.61366199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9275373802915,
+                  "lng" : 77.61500178029151
+               },
+               "southwest" : {
+                  "lat" : 12.9248394197085,
+                  "lng" : 77.6123038197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "f41844e3fffce4f507ae8e5259fce579c04b1cfd",
+         "name" : "Ticket4u.in",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 797,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103006043576778937886/photos\"\u003eRajasekhara S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0l1nysty-Rj3aCWcet4LBibg0yTJdKA-C5_1hMlOiveMNXw_62xmWim-wmDw0KBFjfgPM_va3BaNsIvtltVHgDPpAZBw5UK1uClZa_AO6p57CkXR9tP1SqtVxQOl7IBiEhDmX6BPpVvmIj0XyRYO71yRGhTk_RmkHeLTA6K-IdYvKDUhGcbS0g",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJebVRglYUrjsRkojG9B-DlxE",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAzP-R8Q4EDG7SWWoqGoE0Fy2e62S3EJctMr7p8YJZITSd9ND9VhrCNEreYCYFbFeWJn3S4fqe12Zn-PO7fmPzQSoxAF8oUL6b3neOctJ8VZvhWtE0o0Rk2r8Fy87MN3jXEhAhBDPmtfpF4BQy51DpzYMBGhQy_AiyJxj14MOGS5ad-kT3dCyEKQ",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "J P Nagar, Bannerghatta Main Road, BHBCS Layout, 3rd Phase, BTM Layout 2nd Stage, Bengaluru, Karnataka 560078, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9144372,
+               "lng" : 77.59940349999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9154731302915,
+                  "lng" : 77.60098653029151
+               },
+               "southwest" : {
+                  "lat" : 12.9127751697085,
+                  "lng" : 77.59828856970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "2ec630765f3460dace954a8f7355ddc5710d6af4",
+         "name" : "Gopalan Cinemas",
+         "photos" : [
+            {
+               "height" : 433,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106181509753893235819/photos\"\u003eAishwarya Cs\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0ws88MYZZ2AVwAp66ZXGqShyBYoxgWdu2nz_iAx8Tu4RI2SBwpSRWaloYsjUmNjnfs6Tr8umIf-njBzKMdOnupqvXlEAjrNXQLuPPZ9CCi4zIdCBBu3x84jt_Vo_E9c2EhBFia0PvGH3U86SuoMoCpB4GhTjesksbqNG_PU-NVy_tNDnulKUag",
+               "width" : 628
+            }
+         ],
+         "place_id" : "ChIJM9R7UgQVrjsR94Yk-op-_8Q",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAXQVPnvmiAhYEQghoie7czpmO5anvahecIE_VzX8w9LOlo7QH3VtQpXw_S4eHh-F565YZ3g7ZDlN5Q-LvI7GZvwWLfoP0AK4M5F2PZKk_zNPKXl6q0bb5amSeb5gxd-KXEhByjdIlAL2__nZH4VG-JsURGhQMv6G69wvOtAuPqF5tcXfnPeEvWQ",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "12th Main Road, Bommanahalli Cross, Begur Main Road, Hongasandra, Bengaluru, Karnataka 560068, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.8910827,
+               "lng" : 77.6264803
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.8924716802915,
+                  "lng" : 77.6278346802915
+               },
+               "southwest" : {
+                  "lat" : 12.8897737197085,
+                  "lng" : 77.62513671970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "a685bdd853a0356864b1675635766b5fb8de7b86",
+         "name" : "Galaxy Paradise",
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110111951292800608719/photos\"\u003eNIRMAL DHARMAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr_-qSFDk4_mmd-i9MbKUTz7gCyyPp_olYZyjbxc6rOOAdh7SitHdeXzrq8Od55ZtLnqZXADYm3Fj8nKYuwuog5KQEIQzOey6YjHgs1gRAPNoLFdstPZTgWS56WdpH_ymEhBKCKVTB94QmoD0PTMmKeDFGhQ36OLW0Sa4ZF1vf8NRbWaBqW2oiw",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJF2UfQMYUrjsRcnm0tBUbgOg",
+         "rating" : 3,
+         "reference" : "CmRSAAAAVpncv_1s5o6LkBECxgokwmzJSZ0VfHUCkYmZ4AqvZwp00MKYewYjwLYowg2B9IQXfE3eYT3Si6Egsq39ccAODCNDtxMG9JdytXhHIHCa-Vzm_3W1rWlbWLshAb37nz2pEhAR11pBC_DBTsVXdaoIa680GhRDMA1Bm3lvGyAcSg7rZa_DVF6ccw",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "40, Lal Bagh Main Road, Siddiaha Road Junction, Sudhama Nagar, Doddamavalli, Bengaluru, Karnataka 560002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9560683,
+               "lng" : 77.5854097
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9571925302915,
+                  "lng" : 77.58681548029151
+               },
+               "southwest" : {
+                  "lat" : 12.9544945697085,
+                  "lng" : 77.58411751970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "f35f34c7a5acb236942274961471a2c1276b0285",
+         "name" : "Urvashi Theater",
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113191945385777739111/photos\"\u003eUrvashi Theater\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA527i82XfANr--2p5UJW3QAM5Zv5p_OSM-NQxGTQd8nbFCpxwlEleFF1U7GU7ePLqsb8N_KuNEiiiIQPh834m1SLoJjvYvxuyL91OL_U1_H-42cOWGaq6KDzqfk9L-NcsEhADnWowPLDlOiLmlzrn_uLXGhQDT7d-uP0ZculCScC_sDnd_Z8hDw",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJm9vgRd0VrjsRGyKuciHCnVE",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA58qWuc2hrZgfYUOrSHcgoy7vTOy1yyyDASuXt8wx19AJgnuR1_O0h6NtsdQ2FZmqSoV9BBx-xSQRel7Qfd5mZCVRqJcVQP3VO36Gmx20HJ5K3TYNVCxCQ7qz9Lp13gm6EhBvwjl78wWnl6VO2DWZzSaUGhQ7PeO-874H-GCiIpbhKiOyi_M0QQ",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "6th floor, Central Mall,Outer Ring Rd, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.926402,
+               "lng" : 77.6753307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9277509802915,
+                  "lng" : 77.67667968029151
+               },
+               "southwest" : {
+                  "lat" : 12.9250530197085,
+                  "lng" : 77.67398171970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "3ff8621e4d6b03aa2bb679474ae722200e45c230",
+         "name" : "7D Voyage",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115429552151153811174/photos\"\u003e7D Voyage\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkpgTdtfno7eNfyNcB3jrfGYxdNn7jS_FESmDsCzB4M9jEczgWKAAlKdWpbO7xn3K4laBeLfcHjIgqIG5BWRYjacoVzQqJOKDvd1KW_LKjpREQRghCY0Tzx3unq4_YZN6EhAFCCQPrAjPy5QIgk9j65yVGhTDZhwfP4kvC7Hh4A8hR3WQELFCZQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJAyj63Z8TrjsRdTEx7i2Wj8s",
+         "rating" : 4,
+         "reference" : "CmRSAAAARI_tOqd63oX2K_qGzlTZPCwrm6mJExNkDtwNgazBPfbKC7EIfN33T6N811Ap6gJuBf3-XRThKj44kzpgVv1ggKp9P-Nza2x5yw0RPUvafc8Rj3lM5w4gRLxM1UAXJalMEhCP-P7_pFLpboqSsAVhuPuNGhS6NcKCK8Q_Epo31VUpvAWy5pRi6w",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Fifth Floor, Swagath Garuda, 351, Swagath Rd, Jayanagar, Bengaluru, Karnataka 560011, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9290555,
+               "lng" : 77.5912264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9301805802915,
+                  "lng" : 77.59256723029151
+               },
+               "southwest" : {
+                  "lat" : 12.9274826197085,
+                  "lng" : 77.58986926970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "id" : "f584ae254684fc36bd860d11836796ce0daeaa2e",
+         "name" : "INOX",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114674587937337855004/photos\"\u003eVinod Sadashiva\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzs7J2sOkflmb6TBAvt2q_KQqfzM3pV_7XvyY2Cs4IP2HcyJjUXt8_-CFGPlpy9uoFZNVWO7-4FpqBFAEzYBWmY3KRBbuYkQwchPyJBX6qEH6K4hVq_SK0jjx8Vg9sULNEhB1TDpD6pZTR-Zv7EeMtMWsGhQOTwAez-Lo7j_U4YiAIoBESISV8g",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJARdQDaQVrjsRDl3ZBGwn3I8",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAG5F_71SRLHO55TTcMe_MtrAMjmcdB-lvFixvT9PaYpq2ok9vVmRYH1PvvzDc4aLiHD0cZu_WpT7F3yuRB3uxDmdOrvPVyoEG37sZKDJOjdwArUNyL9AOJDkQhFYWmMq6EhA27nlLTJbX3B6gPwt2PP2wGhSA0fU-9POuVqO1cwuR27UjtIZ8mQ",
+         "types" : [ "movie_theater", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Outlaw Dance Studio, 4th Floor, #11 Shambhavi Complex, 60ft Road, 6th Block, Koramangala, Bengaluru, Karnataka 560001, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9353576,
+               "lng" : 77.62267829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9367065802915,
+                  "lng" : 77.6240272802915
+               },
+               "southwest" : {
+                  "lat" : 12.93400861970849,
+                  "lng" : 77.62132931970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "2ba20ffbb7d266c52269b65fa9e2918423b585b9",
+         "name" : "MisFit - Studio For Acting (Acting School)",
+         "place_id" : "ChIJ7RE0s2IWrjsRhMQRfmp9mcE",
+         "rating" : 5,
+         "reference" : "CmRSAAAAmcobZ_-5o0Gq7BHMhnveN4ORZ2QpF5spUqsF7kqow9c2QmCXRSjDIk0uUGAO7BdVH7aviLz7ZdZnzN3XWdR7XMPs_Aekd_lt6MBrwrDVvPKVU3PPugNIVKquNn9O4YbwEhC8Yber3gWXK4ePKBoVKwe2GhQP4_u6k5Hw9PAJIF-w_jPNzh6bcA",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

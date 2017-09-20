@@ -1,0 +1,504 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "results" : [
+      {
+         "formatted_address" : "1st A Cross Road, 7th Block, Adugodi, Bengaluru, Karnataka 560030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9357579,
+               "lng" : 77.6145887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9371904802915,
+                  "lng" : 77.61589743029151
+               },
+               "southwest" : {
+                  "lat" : 12.9344925197085,
+                  "lng" : 77.6131994697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "a537f56af48105e6661530bf2faa8aa5209f9dd9",
+         "name" : "Bharat Petrol Pump",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107336188543999441135/photos\"\u003edevanand subbaraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzy1xHl_KlaujuPE_fe5LIkJhMkbEZUSzUQTndoSMHDoLHxR-nW_iRebwRLv845Cvqv8vc50PrqRBvS3RTWL8CGjdN9Oy9QILFtb8XDc-bXb0mKFyba8V4M1gvN-BMgUzEhBMPGFrccyinzsa_AvW0KzfGhTvuzjrIvBrpkE2cZriC_td3Z5Qzg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJieJTa04UrjsRKbYhMhxRWvs",
+         "rating" : 2.8,
+         "reference" : "CmRSAAAA63nyKj-Z-tDPRma6IM0aCGYT4MRBvfTY31qG4FW2PdUYpEsW7WFubtR-wMS4Y7GCRkgqylT5pHSLT3TPjsRF_7gNQdKIa_4PWim7FJTcgcwvxkfi_OmFBngwAKgrmffWEhAmg2trfellGmHV1mJ46P3oGhQKunBuXaTlJFQelGntQQacOZJZhA",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Near ST John's Hospital, Hosur Road, Koramangala PO, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.93006,
+               "lng" : 77.61506799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9314834302915,
+                  "lng" : 77.6162473302915
+               },
+               "southwest" : {
+                  "lat" : 12.9287854697085,
+                  "lng" : 77.61354936970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "912aa2ab390cb6fa639310b85279bbfb3b65950d",
+         "name" : "HP Petrol Pump - Favourite Auto Service",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112078754863540275584/photos\"\u003eRaja Vijaya Saradhi Ch\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAN28BQbgog2PImYM_Vo9NqlM1iyuWGcXReZ9_yKaYi7VHK1melIHSsuwYdPIWwyxsoIgswWWpK2YNHxO0on-aba4-F12qUw8BSf3mtKbyFjGJYt0uivJlTF9SvELkNJqjEhDCGfiQAZtNkaE9BtxQfyfDGhR_4bIdU8inW6gw914o76Px_b9KEw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJGYhjFVEUrjsRErckHueGuFo",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAA0Y7XlIaTVyCpNS2EXCcPWQ9A9__M1a6Gdm1P7_4gKbG6d4v5CdZieM51AdTW3Zn3QcDy-3jCy4iaMl_0m8BVNJul4e36MABbBS26rTPFZU408RGG6fyHcP3oSffMpFY2EhCxzNS2BZXa9Pm00o6rEFXjGhRKHf9tcL8azSBM2uqN2TeLFK0g0A",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "80 Feet Rd, 6th Block, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9395065,
+               "lng" : 77.62535509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9408916802915,
+                  "lng" : 77.6267936302915
+               },
+               "southwest" : {
+                  "lat" : 12.9381937197085,
+                  "lng" : 77.62409566970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "bdf57d27dbce6d3f6f588dc46e44e028183fcaa6",
+         "name" : "IBP Petrol Bunk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116208194264496648659/photos\"\u003eGaurav Maheshwari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtZKOa_7bpd0Kcv91rTAxQ0_Ox-EzyAhVryWMjdyB5RuVMoQgII7js66g_N7_ukEuOQ0GES2-F37Eye6-i581JvZYi3uwMPMU3Htevppjg8Majua5zaigHpJUGcsfUwG3EhAU-utT10jOvIK5j13ZJT1WGhTbKuw750q745l0R4lZJbB4KSBwFQ",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJgWmu8UMUrjsRy9zWhe4PTuU",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAI6WKvNBfbtPGMkyYG2owfGFc80AvDGHoujTD9SA8TXjaZXZaSCI2Bcew78hqHjZsPzbCrtu1ad_YdA-8nYeS39zicE1K8t8PfDZUkYWoDtY_BR1co4MsweHMfuj-OgwaEhCMdBpEKPIbIg_7lOECnXeZGhSYdt_csd60FABRAopJB5dTCEWHlA",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "7456, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9334971,
+               "lng" : 77.6302503
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9349101302915,
+                  "lng" : 77.6317006302915
+               },
+               "southwest" : {
+                  "lat" : 12.9322121697085,
+                  "lng" : 77.62900266970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "c101d3302c4b320ca9ac8b1ec284550cd7589e6c",
+         "name" : "HP Petrol Pump",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111739368217633443174/photos\"\u003eRobin Joseph Abraham\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6hrG4I9DMfmczmpqx9_Fw5ofEOsyW4kujmJtLHkHD0YgXbyaKNOWpRpUgej37JN4OiPUETfQrfmhVZSk9MFu2eoJVGSKK4bDD8II301PaxJF4C_T-Cus3Ww2Sw_9SBYnEhCvuxXFKWPfGUQP6MBZY9l0GhRoJsmM3eWka1HsCrQYt8yjLlNxzA",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJXz0ZZ10UrjsReFsHgg7RaAA",
+         "rating" : 3,
+         "reference" : "ClRQAAAAEDL4HKetarasCchwrIpYRJmzExCJle9yhysm8oOPD4pykOUMZWMbvgzKHysg371fT8t85geEgMPVN33gZMkV5haEWJn-PPEmN6M1HTWXpLYSEE22Jx9NysstFubTuB3LfFoaFHQBNKsyDZv6y4IHUN1JnFexhc4p",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Survey No:16, Khatha No:365, 1st Main Exit Road, Jakkasandra Extension, Varthur Hobli, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9279519,
+               "lng" : 77.63718369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9292936802915,
+                  "lng" : 77.6385253302915
+               },
+               "southwest" : {
+                  "lat" : 12.9265957197085,
+                  "lng" : 77.63582736970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "75b7bbe59b0ceb57530b9342dbe1b0cfd3972d22",
+         "name" : "Essar Petrol Bunk",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107170425151590509016/photos\"\u003echethan kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM-rJ3hInndImspdeWBSCb5HOBjvy-esvJwTdtKOOaBdVPXHMR1GMwgc2YXP91iwIvAfy-TPQn1EhUUVswulz4yDgfslSJiEXL9u58IGkCJrcVIEB5GC9yXKlWmI-QRcDEhAe8XhkAga4AmE-P-hpdo--GhSkZ5IICbifvve9dV9yKdXg3CIvAA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJNV9Qw2MUrjsRPamWXVRqje4",
+         "rating" : 4,
+         "reference" : "CmRSAAAAAueIpn5fCa9VDv6PQM9bISQq0b0ivNeb2qCgq2lY_9UorQO2GFY1H1qe-xgzj7iXu8roJvRz4kaRin1MyAu8-dLklrbjlqEZ-mkEp8QRqUFe72VLLQZvROTzzTH_eFXCEhDNZT9OORwYygt3b99L5-pmGhQw-WAqeOmGlfChmEkFURkQ9H1_kw",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "126/1, Mgs Palya A P Road, H A L Ist, Stg, Konen Agrahara, Konen Agrahara, Bengaluru, Karnataka 560017, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9454143,
+               "lng" : 77.61865499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9468650802915,
+                  "lng" : 77.6200993302915
+               },
+               "southwest" : {
+                  "lat" : 12.9441671197085,
+                  "lng" : 77.61740136970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "d9007ae36942eff1b2f2c715c89a3a5a2ad7eb6a",
+         "name" : "Kaveri Service Station",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103099590519419525034/photos\"\u003eRider Milan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJoj8tjT5Fw70Q-1hjRATe3Ntz4x3FigHeH3V-ZPpXwT2vtQYHMX8Pw15DYT6-I0LgOGm91kDFvtIuoswL0T9B4YhNEwFRT70sGJjiwhoUAhIsaWdjmCrMMUE5y7QxFCREhCuSWRmp2W6A5AH3H2HCkP1GhTvL6189Y9Of1K_EpT80cPJDy6acg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJsVhqq_ATrjsRuh61eZftYHs",
+         "rating" : 4,
+         "reference" : "CmRRAAAAaNBIXIqZquuajgi4FCefCdpDJMTkA-tFWSXcK5-B5fi4ax7ZCMDBkKWGQNriz3Y_ZwecEqW5kCRByq1RlOKLWQVuSLNAK2QUgddnIL272fNH4k3nT-ZwZqU9NrifgpziEhB-PO9UgSXnU_M9fWGqn_eYGhQtINPKt5gmIpm0tjDTL7q09rn_UQ",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "20/A, NH 7, Venkatapura, Koramangala, Bengaluru, Karnataka 560068, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9208033,
+               "lng" : 77.62083360000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9221522802915,
+                  "lng" : 77.62218258029151
+               },
+               "southwest" : {
+                  "lat" : 12.9194543197085,
+                  "lng" : 77.6194846197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "ebbbef44aa8a876a8988d5270acd0104779d0115",
+         "name" : "Venkateswara & Co",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102686230722293019330/photos\"\u003ebAL RAY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqhoXBTxYYS4RfEqz9kBR9s8aNuGS7Ydd4iCXxHEf35x2RjaLnRRzXRSXgS5avd2nqh6ShOZIPPtwLS3AzpEYhJrCfIXK7qEQ_gdj6tiuPgdzQ7_UGEWolL4LchI6dD7vEhBQPfhSOY_jItBxO3RPVn3SGhQnrNxXhwifBBwWxoUXpSKcKbMOWA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJeeIkovcUrjsRapMHvj1gDTc",
+         "rating" : 2.2,
+         "reference" : "CmRRAAAAupPKuvTuwt6IkM5Aqq86eDl6t0gowSwXLujuv-g29vQ3CrkEgVPuwdfpGP83fL-JHaPNumrz_Wa1eFwblb_mQKRnUoUeqAVTCdCOhQa5IavFErtpsubvtusYLkrwT_YoEhDwBJcpCEFlCVZ1MIHk7ft8GhQs3S9RWtH8o4Z0T1zY6RTlvHKwdQ",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Shop No. 2, Adugodi Road, Chikku Lakshmaiah Layout, Adugodi, Bengaluru, Karnataka 560030, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9336848,
+               "lng" : 77.6114498
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9350337802915,
+                  "lng" : 77.61279878029151
+               },
+               "southwest" : {
+                  "lat" : 12.9323358197085,
+                  "lng" : 77.61010081970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "3f32126f9c8012adec07dab601f2ae45fa1a879c",
+         "name" : "Indian Oil Petrol Pump",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105975288042284079748/photos\"\u003esebastian Joseph Kannothu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7cvDp5ry7P-oP6_vxZi3gTwgq6im_O2jMDGDUyrcNTMmUUWESK2iozcVqmAi6dZ9vUhmVjaWCh1wa94i0Ue1bZ-1s_yM1oajPrTt2gX4tiBg_VRc5BdsrgsT4peIEHOxEhCTEhuxfImArP-nf6VKrz2sGhR8CGXR_yiTdUCQJps7VMBw8SrVNQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJNc-4cFIUrjsR7kndzWu8emM",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAA-L_Pd-lHX0YBJyPgssUy91YYmuGNZUl6ytvLEfhhxi3QWRnLcGRW9JjDERBJhTnvU9Z2NeesMqoLzgfZqC8n7PB-12BlkYtEvbT2WFAlVq72r2HQ7bvSlTK96_i4zDSkEhC0khxDhAEnjsJRhR4ZWRswGhTOlDa21QGjfXppjKnsz6n4Yb8-Tg",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Hosur Road, Madivala, Venkatapura, HSR Layout, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9207501,
+               "lng" : 77.6207953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9221219802915,
+                  "lng" : 77.6220096802915
+               },
+               "southwest" : {
+                  "lat" : 12.9194240197085,
+                  "lng" : 77.61931171970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "676c2495989481408fb99f51669e3e25a9224089",
+         "name" : "Bharat Petroleum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2357,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118249891770320969331/photos\"\u003eDeepak Chauhan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyjCGarmGqc2VSlQ6tshXd7etVO1H1xPZG0NsqB3ah3GSNeaIUqo-66iHbGbN93o7KgxD97ENwyyVdIcnp6_qLdW7X-Yxce7CS3dXg5dn-b7Ni0uCwi1R2h1LwS9Xi5zIEhDkJqFb4IEjnvNBgPD-Tm34GhSNhOOkbW9XbWk4oRLg5OqBhvkCTA",
+               "width" : 4190
+            }
+         ],
+         "place_id" : "ChIJNYnxofcUrjsRCTIcH73k040",
+         "rating" : 2.7,
+         "reference" : "CmRSAAAAvBK6UWwwNnnoJEpYUHQb9w9wgz7CMY6wyoINd7VPykPHT37gvOww00glSJps_z4No2uB7UAos_dAeUpkZ9lP4j2MnJdbZZgGc_LaTJO-Tq3AS5EBCpOGTkefGZE9xi0EEhBoXbllIsAt4hzeUnFu7EPiGhSnd1DZl3jdyroe-w9T1vTuJ5hOMg",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1st A Cross Rd, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.933264,
+               "lng" : 77.6234508
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9346742302915,
+                  "lng" : 77.6247365302915
+               },
+               "southwest" : {
+                  "lat" : 12.9319762697085,
+                  "lng" : 77.62203856970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "97ebd0dc1093896a64e6429bbd2cd870e58e2774",
+         "name" : "Essar",
+         "place_id" : "ChIJB8PuP1sUrjsRstdRO7l8-Sw",
+         "reference" : "CmRRAAAAg5fVwgwrpA7stZRuTwEIPVz8qMQzBdssFlvN66FmxY230YC9BEtoq4X8y_RA8IjU6Rg8ElNZnVa6qVBZHBiets7apV6qxW43j45Ilz3Vb1Qjf5HtHF3nN2e2-e8NkVaDEhAq--mFW7gFzjHJfuBLlOYQGhS8skl7A8VP30mAGrehoEdfR0L5KQ",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Outer Ring Rd, BTM Layout, Bengaluru, Karnataka 560068, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9165775,
+               "lng" : 77.6198438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9178574802915,
+                  "lng" : 77.6212091802915
+               },
+               "southwest" : {
+                  "lat" : 12.9151595197085,
+                  "lng" : 77.61851121970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "5c23370807cb9463459bd8d7f3632d08a576a934",
+         "name" : "Indian Oil Petrol Pump",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107336188543999441135/photos\"\u003edevanand subbaraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC5FV79P1rkbK-iFEq1mL2fCfuG4pryfdxb4peRl9625uxva6-J4xzKgOqcSrFnKTp-CxWKsAmyDGhEzdfQ_hsqiN8UAM7fitn6sPyzVT8iTfiGLrxqwfwm_L-JNwJbneEhAgEDs13jOGr-ZY1kmhmLqhGhQ5IxkyoC-RR0n0WvpZQYCHYGA5FA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJb22TpPAUrjsRsO-jrJ4NIhY",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAArG3Uwiv0nsuTyPZ_W-9GnraXrGu1aFQrQChEbPdCBzeTKoCh9fGpzs3TjdOxwPTO0LecXiv_iHkpbSVILOnJFoPrJcSdN7gYQtxKsRzEHTVUM34ilTr1L2KO5SLrkWtpEhCSo7p26b6tu0c7AMlrgY-dGhQD9ZRjRwQ2M7zacq8rE-zlcXsKdA",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Door No. 33, 5th Cross, 17th main, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9358065,
+               "lng" : 77.6216075
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9372099302915,
+                  "lng" : 77.6229874302915
+               },
+               "southwest" : {
+                  "lat" : 12.9345119697085,
+                  "lng" : 77.6202894697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7d8b9f7a6b2249eba65c30aa9a6832bbb06011ab",
+         "name" : "Filling Station",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109588402724160473298/photos\"\u003eJYOTI KUMAR\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4UrPe3s9oIF-PG4CYzZhp1VEX5EnvyyR0Cj4ZQ26jvww-HHgEe9w4x_F_zlmmU49JN_wIQ9xeZj5-s8Rf1R3uM1Vs8phZ3GrKpXsnWRJkAXCOXFoMgOIlG7qaXQNPAKtEhD-1IIC0DJMo4SDnBfIGwOBGhSpBY5wcx3i7aiF977lqhbHAbVU5w",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ9wbLIEUUrjsR7b3xEAvDuRI",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAbl1QNcbeDiCSPlkmCaUKZBIzNnpzKJth19huYj6om6OSzVUTxXoWrulMAWNL_zrIYhofnTHI7timRBJzGZXBBRhgKmpVSifIcMDRlPa1jNnyPuvCbLP6emyDhGlSI2X3EhA8m3UaA4CNuTctGuEpvEcPGhSJ_8c795PL1ymj_zAqT5jWK_75Ng",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "B-2, Hosur Main Road, Wilson Garden, Bengaluru, Karnataka 560027, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9496917,
+               "lng" : 77.592877
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9510683802915,
+                  "lng" : 77.5942849802915
+               },
+               "southwest" : {
+                  "lat" : 12.9483704197085,
+                  "lng" : 77.5915870197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "ddf84109d8795702e7da39f5119cf22a50d9f3e3",
+         "name" : "Shell Petrol Pump",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1232,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104021521334966359211/photos\"\u003eSupreeth M S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOVb7YTCuCPVumIqYlXoLkIwYWOdWxY4WfoU22PvIdM8TMp4HQB-qgpWTMnXYPayfsvH8m5041FynaUqbxeGLGY-TjBbAzZRT02xyR9HAUXBtkAQEhBnczHhhqCe3_PmlEhB89Clv8VUnYtdMsoHWbVBAGhQL68frJNKaagW9v0rCwEdeOjKk4g",
+               "width" : 2551
+            }
+         ],
+         "place_id" : "ChIJeZ1kGMQVrjsR6y3GbpW6TP4",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAzLDdO1XJ0ZzwcVatmBki-kRTnoCc-XU8sFJdaAhh6XDwIsepxTQlZ_6fntotJjf8aHv5aBLb9lGCV7RW9uggvRP8TXXV8fr6uYOIIxJFXcsAV4owvBTn171W_U9ykb6UEhCcobwAxfIRQjh66N9cHXoFGhRBMG6NlTymZ88o3IzJnHe0aDoUtw",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

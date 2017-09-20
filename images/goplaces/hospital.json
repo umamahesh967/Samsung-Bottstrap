@@ -1,0 +1,742 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC_AAAABd9Mvgw5e49yRd9Ol98GDMN06kGyYRBy9R6cvRtYrRapL6pyudKKbYo3pLGT_IelUdOZTlEUO2My9KIlKh9kN7ZFkNZlJeSvON9MQGjacyLqO9XcGbZcTsImQakXVpQHMZ9XtmMSuBqS__2JrhwNuuO0U-Q3wr2YuA_jfvm1mnc6UKAPR5aiEwPul6FAPQn4Goa0TPEliPg_4EsSiDRQ2W47ULGYJprp2ivk9e-p1UWC1AbsOMnoSKnLEqSUMAd__TVXkcOKymvVkIjkDYPjUMNBUVhSnBqEhclagse9OyhAXkDqM2mU-FdD71XKAZ3MLsGUjDNaw7nY4raKuZgghESEODC4HLzydeUZJpVQ96jOQ8aFF5-FdvaR_2H5auJ8bToXT04ACN9",
+   "results" : [
+      {
+         "formatted_address" : "143, 1st Cross, 5th Block, Koramangala, Near Nagarjuna Hotel, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9338583,
+               "lng" : 77.62023409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9351089302915,
+                  "lng" : 77.62161508029151
+               },
+               "southwest" : {
+                  "lat" : 12.9324109697085,
+                  "lng" : 77.6189171197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "18612c5c3f951b5a754310959f54ac4c8411c60d",
+         "name" : "Apollo Spectra Hospitals",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105296976633300218360/photos\"\u003eramendra chandra saha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5Ivlp6NlesE8onmh7gbhtVAC8Jol35a45gXvBQyV8bLtt4Urc7ZiJWRBW6p5IhgVqPF8goNzu5QLDdefMI74E2ff0Dmaw_vJ63tlaw_iYjpT-Dbh6UDV-qv6rpTRSApOEhDzIJE8_hejgv5rfJwF6mcXGhSd0_PBMR1q4xPG5icPNvAY-jQgNw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-5XX2loUrjsR4531obXnVgs",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAyBS2_Tjx3SqZkGGusTF-XcPYtfseC_TGlyiREgg1DU5jvYO9inZCC2xb3LxVVk_O3LBWa5q1SJIWcKQUgcE0JmRGcyRFjJ3knOLsPmBlay6b0S4PKisxmkBppTbwT0rVEhCseYGPGMVXVn1m905HSgeMGhTbNnYlR6ZPTlebQh_2EhCvsLJHdA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "No. 105, 5th Block, 17th C Main Road, KHB Colony , Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9352976,
+               "lng" : 77.62055190000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9366759302915,
+                  "lng" : 77.62185288029151
+               },
+               "southwest" : {
+                  "lat" : 12.9339779697085,
+                  "lng" : 77.61915491970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d8073666fb9ac2485be490250e5f75e95961fc30",
+         "name" : "Acura Speciality Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 544,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113186582715320179606/photos\"\u003eAcura Speciality Hospital\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOK8HVkVSErhrk1BM_h0ooHoVrkf2_qWZELDBnDZGdKGSU4IYzAYZA8drualW_JGU1Ty-HAJ4a1mDw8TVzSEvnxnrquqpVlmwqbdz4gh2T738Mu1Fetw7eWEQZMZWFgiFEhCa1BnD4g_hnd71kiO1oD5jGhTPexbDIauu54icTzyZEnpm1Zxk3g",
+               "width" : 544
+            }
+         ],
+         "place_id" : "ChIJe-KpzkUUrjsRFvCkNmR5akI",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAXKq7St5MUgkrflZOciY72yil-rTRkkun16fB6cjDwvant8rEQZk1Y1Z-OwBrlrVhCbDcu8jGCDzQ2sm_Uy2n5ECqJ_NlVvvI7l2qL54jKh5El8E2_VjheZybF-CTYQaEEhBFVt7q850YMk0q330lVT-0GhSf81NkjU5otDS7H80ZXHeWzqksGQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "58, 5th Cross, 18th Main, 6th Block, Near Anand Sweets, Koramangala, Bengaluru, Karnataka 560 095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9368248,
+               "lng" : 77.6205885
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9382443302915,
+                  "lng" : 77.62185273029149
+               },
+               "southwest" : {
+                  "lat" : 12.9355463697085,
+                  "lng" : 77.61915476970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "58272f9faf589d68bbb890f3c7b6df2af31f31b5",
+         "name" : "Apollo Cradle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111888065778290557906/photos\"\u003eAmol Sinha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAprJ7tX36Ws7ffUAOOHBBiIQrM13lG8pi5tOfIEFurflL1T2ZbMh1m3AM6qXVQCWtVXAIirTNC6ahGHa81V0FDkuv9qDQs--5HueAhaacATQ2Ua7U-uS2qJuEH0HkR7LrEhDzaawzyw6IriWZ0wHeaROrGhQHW_A_888XBlWFK1L8LXLXuL5ZWw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBSHBckUUrjsRtHlBBdBN4NA",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAA5wF1_5BM71upyRpGS_MYbRZQqB8wjLkAYmAaEC-bWDRNC8UlIqqDhkoE996g97xN5JbXtnT5-0Al8U1sK4JnQOfVd2YFfF_0lPxhlUamdlBsiA3S4FW4cmTFn2auXFGYEhAol3NSARTXx4QKTvFEX8TfGhTcuwLwUxPZvZy-RKnF2U0ReZBfcg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "#153, 1st Main, 1st Block, Beside Bandhan Bank, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.925472,
+               "lng" : 77.63598739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9268209802915,
+                  "lng" : 77.6373363802915
+               },
+               "southwest" : {
+                  "lat" : 12.9241230197085,
+                  "lng" : 77.63463841970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "1c81e1cee301ca62413974443db0cdf7c2e6efb2",
+         "name" : "MARVEL MULTISPECIALITY HOSPITAL",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102976814155634062780/photos\"\u003ePradeep Krishnareddy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1I7L3orVTXBhlBUkkrJ23oBxjqF8APc5MTZDkp5Jxvf1CtVYCj0gP1vLmhjzq2-8R2TmDGyn6wjdZCQ3Yx-vxZ4yVWk3HEMqInxyuPnQbdjVT0Spn7T51CDkI8cUnWfbEhC3kHpacc-h5u6LmI9fLLzPGhRQLdaWoOuzJ4VVfYgJeulSkoAiLg",
+               "width" : 1105
+            }
+         ],
+         "place_id" : "ChIJyWPANmIUrjsRNS2v8zRa7Ng",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAc6VpgosTxDZ0l7YlXWzlvLqWVl3R5i0KcElXTE_V6EmdFsBaThftjvXv6xd7AsEUpuxT4k0ZFUkmri2p1mfCHsSLxdRggs5PR4eQeEbiXp9ETGoWfUGSLtVDtNoelJqEEhBXD6wIjnqxr-cWIw2i6T0BGhSkw_XAfGkutOXiSBjO4ojTL-hpUw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2, 18th Main Rd, KHB Block Koramangala, Koramangala 4-B Block, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.932422,
+               "lng" : 77.62319359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9338077302915,
+                  "lng" : 77.6244456302915
+               },
+               "southwest" : {
+                  "lat" : 12.9311097697085,
+                  "lng" : 77.62174766970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "300afa9bfdfccf1eb43410f1cb8cebad2a83f33b",
+         "name" : "Mathrutva Fertility Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108661950116107132815/photos\"\u003emathrutva fertility\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAbS_rnN2mykrIaeBXdIXjZOT88MY2l_sOpQMk97s8wrCSD1e8X3-0zSPnRxZI215jtR-KI0kbYn7n7IAHU7ldTgL3NXeAE-pTeaoCGSok77gRxQfn35AkWgC4LC9ah9pEhDwvML30ePpgzSaC7yRE6F2GhSYv7OYiInt3Fa8TKS8zkuKj8ei3g",
+               "width" : 963
+            }
+         ],
+         "place_id" : "ChIJFQ4fDlsUrjsRhXv0LNZk4us",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAqIYI5cikb7A_q-lSfz_3K0X5J0vQtWIhNbtzzkq6k5nzt45-EarUJufid9VZXOWV56phvfoVXxp5QRzXk7rmA1f3Dj2tiFPjc-ffLtbC-JtdlrGNqocpgbKAuhtMOqcqEhBL8mev_veQfdl0pAABPboZGhQvIBpGTHq0qmHkyuoi5yxtdnLeUg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Ganapathi Temple Road, 17th Main Road, Koramangala 5th Block, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9361882,
+               "lng" : 77.6168914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9375453302915,
+                  "lng" : 77.61819553029152
+               },
+               "southwest" : {
+                  "lat" : 12.9348473697085,
+                  "lng" : 77.6154975697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d85073b44a3572575214df873ca6be5b4f5fc1db",
+         "name" : "Aparna Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJpb_SsE8UrjsRIKpOVDw42is",
+         "rating" : 1,
+         "reference" : "CmRRAAAAsYbRhmmX--g09qnPRRotswgBhNskkjwdkMiM2aoVyuUfKn19ilAH_Wb8GVyHAiheh3dTRFY1JqtXWbRgLkPd7EKdEjghBxedaq6cMnQFj__9cAPFU5J0Os0YdHLPKIGYEhALypOeTVpSOPtEgxPOCFBBGhSAp3ReRiJK29zAUlKR4TPkCm73sw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "15/2, 4th Cross Road, Hosur Main Road, Madivala, Bengaluru, Karnataka 560068, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9236758,
+               "lng" : 77.61921989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9251620802915,
+                  "lng" : 77.62080793029151
+               },
+               "southwest" : {
+                  "lat" : 12.9224641197085,
+                  "lng" : 77.61810996970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "2df27d9780466a4c409035d11d050c1cb13c988b",
+         "name" : "Kaveri Speciality Hospital",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115214423779048590877/photos\"\u003eKaveri Speciality Hospital\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMfOzTNe48ue24OBNshl9zcdVFyTYAAjPMRjoPXI7jrsnDwyRviQKolLpJdFN7J6vU0Tl-VuDkBxx9VlIHilIqeRGXfq3cpYRpluFgKcewtG2rbssMz2h50r1qPt3bQdMEhBlqbKFegGqF_afMdIwToWJGhQZmvR1EVftaGrE5qjiUmF_AqsKDw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJuW7l5vkUrjsR5Up8j7pLbMM",
+         "rating" : 2.3,
+         "reference" : "CmRSAAAAleoQPwCdA3lTU-cPbSmUEfAL582YkuTgBd-MTYA5p1G7DfEFGveUXZCrLVdzmoBUzyf6GvlcIBjFOAFmuy46aozWrGXCFa8VTMW1zIYQU4fI2k5LyWxE4GctVPiSPfXTEhCBnnjyFXUMDwYFCHjYNs4WGhTmzELAjy6M2cZ8Xx1CdYCduTwFgw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "#3,4 & 5, 80 Feet Road, 7th Main Road, Koramangala 1st Block, Near Wipro Park, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9265914,
+               "lng" : 77.6335747
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9279403802915,
+                  "lng" : 77.63492368029151
+               },
+               "southwest" : {
+                  "lat" : 12.9252424197085,
+                  "lng" : 77.6322257197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "3b4b21ae7a3d77ae1294c6bca08190604db5ea72",
+         "name" : "SHRADDHA healthcare & nursing",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 898,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108439049634892657835/photos\"\u003eSHRADDHA healthcare &amp; nursing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV-ZViOJS6UaFHJNAXVjAVR3l3DYFWY_rFVhh1FdYI15_ykNvTJ2GijM9gv2F8Brg7A5V5XRrnNYmv-vm0B85Asdd6ajLjReRc1gumJZ02W7si50LfhKmvQ3Pq7lkZB84EhAPymUBumr2VsDtK-fL_xn1GhR9GNqkyqspU0Qy_7Im-sVFI6TSmw",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJW__I3mAUrjsRG02-BPOryl4",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAfFFZpLHeoLitwCOoKJANaxpsi66fI4zciLqjQqDln5Cxe3BFTdDs9DkxCtfFRrBXyWOdbxac6Dvig2DVQ5MGNteP68l_fM_uIr4J0lGVZ9jzMAzrrzfG-3bauoAGszC_EhAhMUl12iy9ggu6QH_FitAaGhQf7x4G5NyZmzIzm8O6jOk0cbE6fQ",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "No 15/1, 4th Block, 3rd Cross, 80ft Road, Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9328248,
+               "lng" : 77.6286542
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9341737802915,
+                  "lng" : 77.6300031802915
+               },
+               "southwest" : {
+                  "lat" : 12.9314758197085,
+                  "lng" : 77.62730521970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "9b5beb9edd92279c9d81230f33ddb878ab641d9d",
+         "name" : "Kamakshi Hospital",
+         "place_id" : "ChIJQcJAQ2cUrjsRb4k8qGZN-f0",
+         "rating" : 5,
+         "reference" : "CmRSAAAAe74gugBz-kIPIE88s3FPiPobGDVmX_iLYh8KdmbkUTRs7j3Dd1pbAEnS-gAenkFTr4AN4VGjx5X6bD-PfAiKSU1ZK8kqj8PWhDCHCcrVUKg22iv9Rj6TwbVsaZyTPs6IEhAkbvnkC_O5iE7nv4aL4psHGhTSnjigfbvB6V5BRDbtUbZZINTpRQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "No.81, S T Bed Entrance, Off 80 ft. Road, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.934922,
+               "lng" : 77.63049459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9362436802915,
+                  "lng" : 77.63173273029149
+               },
+               "southwest" : {
+                  "lat" : 12.9335457197085,
+                  "lng" : 77.62903476970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "eb942303540504c6e0c3d6b178107410f64a5406",
+         "name" : "Magnus Diagnostic Centre",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1051,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113700417900465135536/photos\"\u003eMagnus Diagnostic Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArbemjk8WGkEQ_hnKKNKBhl7PYmUDvqskSnz_t13645P2-W_J_jv9Fb0eDtMcuyo1s8nLj6Z79qjWDGl2mlp4rWG6ehAMbIi8XCsR3x7UqVklmTRRbZwISwRA9GkLYxXVEhALrrX4UptN2aEkBfAM4w_KGhRrflXIhi9W_1SPAM6MLV-Ls3bYkQ",
+               "width" : 1055
+            }
+         ],
+         "place_id" : "ChIJVfNLVF0UrjsRl_Luh4uhWbw",
+         "rating" : 2.4,
+         "reference" : "CmRSAAAAnLl_0A2fH-pWwFFPWZ70qo_oTg55swRjZVwQfIPCy6EmlF4FWapTshgu3S4KMbpu0jUZl7q0Ze_9K72nbw9Rj9mB-Tjl23niPkiJFfLxS3xsAvlD0bzEAS-kBIdVc5KPEhB520h60B1Uzx0kGL7HZ5pNGhRMj6bjfG1rmcT4XnbAQZB1j8Eqew",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "# 208,18th Main,6th Block,Opp.Mayfair Apartment,, Near Apollo Cradle Hospital, Koramangala., Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9388993,
+               "lng" : 77.62149459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9398552302915,
+                  "lng" : 77.6235167302915
+               },
+               "southwest" : {
+                  "lat" : 12.9371572697085,
+                  "lng" : 77.62081876970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "49602f4aae5958ca5cba8a794b33185c092a8931",
+         "name" : "AyurHealing Ayurveda And Siddha Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100182756163432276850/photos\"\u003eAyurHealing Ayurveda And Siddha Hospital\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoGOx9eMpf2pyez3-HogwjeXRQltdF11RYAFb3igQmf1ctqQNhxMcSCBGDowUrdXGZ-6fJDkWNIgZ-nF07qzylA_sulPbBvn4knI9e90svCu53ItONPFGcFC03Lp8aRL4EhBk0abXCoKMJWzzf70m1nnNGhROGkd9nCZPueONHIWzKmmweKU4GA",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJBzAXyEUUrjsRLQklN8nfJ8o",
+         "rating" : 5,
+         "reference" : "CmRSAAAAHhb_OvyBpNktRLN6poCUo7ed4HIlgTCVM8Ategnk-FXmj9frmkdJ5aFWZ5Jvor5063Yj-gwekJWKEMewTa2R19WPyRQD0DirI-YrW9X1Gah2vonT81fA-BAhL4him6GREhDjKcyQN40RbrSX0oAo9ZRyGhQmJyElhysrvWibj5dZGlrE-AkE5g",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "20 & 21, 14th Main Road, Opp. Agara Lake, Sector V, HSR Layout, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9191291,
+               "lng" : 77.6381231
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9205040302915,
+                  "lng" : 77.63956983029151
+               },
+               "southwest" : {
+                  "lat" : 12.9178060697085,
+                  "lng" : 77.63687186970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "039543dcfd0e99c9494b8c8c239292e1699e0875",
+         "name" : "Greenview Medical Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104371403429729233938/photos\"\u003eRAVI Julapalli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAc9FdF7FxfpcwFa3WNx0tuZIueaGNgBe0LVmjV0IXORCzYKxO6Rij-PMhOSsAbLRSWVupNR1wNCY5szVskxuUGglKk2609tFDoEaFaroqxGydXHjAAzzfeJjosnQiLvlgEhA16psDl3SpPYH77wbL_WlcGhSiIO-8NAGzTpVUaGuhkmWtqIvQvQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTQQ7X44UrjsRjqAapydtC7k",
+         "rating" : 2.4,
+         "reference" : "CmRSAAAA9bTQtp5x3Zyj0h4jXTIp1AQgvmcRh_IKzICiu_k-MwZF0oJPug1tEOqbGXEIBVKhMLMfZvz88N7sDiwkLodPwLcU7LW-1fzIg-XqMENUB1hXnsXsMcAH5aQWY17XLz9vEhCkQys2fppe1Kva5q4ikRtCGhRA09ZhpKqrzU_7rxcrxEPXuMpjKA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "17th F Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9388295,
+               "lng" : 77.6235027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9401863302915,
+                  "lng" : 77.6248650302915
+               },
+               "southwest" : {
+                  "lat" : 12.9374883697085,
+                  "lng" : 77.6221670697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "09ddc2cd2932ef1efe95cc36ad96dd230a1ffa6a",
+         "name" : "Dr. Subodh M. Shetty",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu8q9CUQUrjsRdH-B9K8cM9s",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAARaOf8Uj89LGeBiiOpXQ7Kig2K0wxO9wxOTnPWbMjuW9pDIsgBVtu1J6NLcpNDuiv1tuBNKdEKYrqywqCxgbOKu9Hu2NuVjIp332JlzR9rN3rKX3InC00VoZeE1fTkaNsEhAesz7lDxbjqzmO4I5o-FebGhQh00dMjdO-pdyjQywjyoolmo8w-Q",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "#302, 5th Main, 1st Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.926644,
+               "lng" : 77.634587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9279929802915,
+                  "lng" : 77.63593598029151
+               },
+               "southwest" : {
+                  "lat" : 12.9252950197085,
+                  "lng" : 77.6332380197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "920ed3f90ed15a465d4fedc86de4c5badfb99074",
+         "name" : "Shilpa Homeopathic Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJF5n7CWEUrjsRMgxk1n5dqjU",
+         "rating" : 5,
+         "reference" : "CmRRAAAAzlJPq4Wd9sn1YH5SRngUmOatvyLfb2RDVWB0QFbaGuOs7nAAqGZXE-EfmumvShJ7vittRiddguaCfJCEot1p8mr0nWj2dCHcPNDdFHZd1EPFs9XWAoavT446M0L9A0VzEhAwL1V12CAxhWlIjSsJLMlJGhTcRmkvcnc1Wak0eGXFE5VJTt_YBQ",
+         "types" : [ "hospital", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "# 63, Splendid Plaza 3rd Floor, 5th Block, 100 Feet Road, Koramangala, Mahakavi Vemana Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9331715,
+               "lng" : 77.62290759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.93448033029151,
+                  "lng" : 77.6243623802915
+               },
+               "southwest" : {
+                  "lat" : 12.9317823697085,
+                  "lng" : 77.62166441970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "0d5c6ebd1f8e3d098fff695d164fd99d6ab6ccef",
+         "name" : "The Reach Clinic",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106677125489555731731/photos\"\u003eRajamanickam Ramasamy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABzmWsW0Pj6WUM0oZv5EJX142oZLVa0UxTv4CLs6fkludGnC_szQnwJ6mFh8zkB9ybfFQGO0gP_dbnhIGcxvL-J-EOwrR500NSXQmVqNbW6450KhSYd5RsCDfjU8SR4EcEhDuo5qVtDziBm1bmH-2S-veGhTxGLP6pvi_9RifLVnHMmsWWX3IcA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ6wo2FlsUrjsRPybKeJ8T6P8",
+         "rating" : 2.5,
+         "reference" : "CmRSAAAAiqiLUzvsXXfUTis9epxYsJTOPT7bJkQoM8pbTZbpynunbgocD4t3ub0kiorzRMnzfcW9aoHJPKIjOGEj4IvyVWfz9rj0lSotJ_cOIOP-XETtPQZqUHjNFi43gG1be5YOEhDV2kwqVgaWIN9MuTeXAwgHGhSMDkG6INX522kPDI8iql6efvBzBg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "86, 4th B Blokc, 7th Cross, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.931147,
+               "lng" : 77.623881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9324959802915,
+                  "lng" : 77.62522998029151
+               },
+               "southwest" : {
+                  "lat" : 12.9297980197085,
+                  "lng" : 77.62253201970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "234722bfe19433b252f558966b97395076cce28d",
+         "name" : "Hosmat Hospital",
+         "place_id" : "ChIJj3bLOFwUrjsRRNQA5WKWKm0",
+         "reference" : "CmRRAAAAufYyKmOZw2tU5V8oc8oWVKemJcQHR7Y9_gKhDEM0g5BktCCj4MX9Xp0zNQidD_JiCMM-QLlLpaVENu3fMRcQwMEwESKK3z7jHmp-f3ej1lh_6Ms6wBqYoZPXW8Ag4NFKEhAo_ox_VmuYmEhnMo4YWMtHGhTKf5MO9UEUbv1G1wgHh-r0nm5Leg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Opp IBP Petrol bunk, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9401258,
+               "lng" : 77.6254187
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9414513302915,
+                  "lng" : 77.6267254802915
+               },
+               "southwest" : {
+                  "lat" : 12.9387533697085,
+                  "lng" : 77.62402751970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "f97f08fe685b2aaa7b303e758d7b6e514a63a4b1",
+         "name" : "Vasan Eye Care Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112620285527499049652/photos\"\u003eVijaya Bhaskar Reddy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA18VlgfIsgrNXoYqXuYzCT7L6XquOB0xm3OeqtZiUfgpZ2nEFytI4uY0tD1C7F13pBpig7AvVb6ENX04QkTUCDryzdcbNju3OcdgYlRNtquJiFbTKYf1NEj6u5W1J9daKEhC-NVlOFbjbI5l74nHI6c8eGhQdN37VOqugxvm9SSZ1bcEkezxCJA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJJ0JA_EMUrjsRUCJ0JftxIpM",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAA5x7eV_ABwbKoklEFLK0MHGR76bQ7cTfomF3xUCQdUJEJqYc8n3tgRGn9gUtEpvgpuAeAJZqDyxUBeIa6BONUUtf9COVbHjshVX4ggCzemSI_RFEn7ipDXy0EVOSDbrdcEhBdBKoDdetvMveUS6H0Tbh0GhR3b2JbLW4rEwFQCrNKSU90MzgVKg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "914, Venkateshwara Complex, 80 Feet Main Road, 6th Block, Venkappa Garden, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9398,
+               "lng" : 77.6256496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9411211302915,
+                  "lng" : 77.6269550302915
+               },
+               "southwest" : {
+                  "lat" : 12.9384231697085,
+                  "lng" : 77.62425706970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "91971d0fa48b30c5721c1509e4fcf1f9f5d6cac0",
+         "name" : "Diabetacare",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101650184791044729218/photos\"\u003eYulop Websense Solutions Pvt Ltd\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcbNVaMh-Jp3umlG7vnkyWQyAKjSIfbUDLdFcYpc1BBPQOy6pn1qNdTo2StvIdBEWacndRs_MhNH2S3upPu0g9Tr3kTlc0rGMFB-5g0CQdrIBibnbfglOYrt5Q_afTbv9EhBU_fNLeB-RnP43FBJ2O_jlGhRZmTPe47CJKOyOmE3NA1iO5XRkfg",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJRzAp5UMUrjsRuC5m8aoOixI",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAzjIij6N_tgfLx0Ya4c9z6tRM48CzeW0mSkliqm_Lvmt67-ogc34W-9BzWerK8YXn5oMW96IYekBPpJQgeVKpja1lMYZ5tHHc1m--syFiZldXAH6xfWZdnkJBno4S8tv3EhCJeeRmMrea0TVt56FmflQCGhQ9fNq2jRZ3_cHkYEijpJfUAhci-A",
+         "types" : [
+            "hospital",
+            "doctor",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Sarjapur Main Road, Madiwala, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9292356,
+               "lng" : 77.6186067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9305845802915,
+                  "lng" : 77.61995568029151
+               },
+               "southwest" : {
+                  "lat" : 12.9278866197085,
+                  "lng" : 77.61725771970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e67f18d03f3d4a1159199c0478a52f78ec6d3e20",
+         "name" : "St.John's Medical College Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104514742604067471774/photos\"\u003eMohammad ashique Mirza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq_M4gsEu8m1Pw_eV0vvArpMlyUl3zxEIs3Mtz2PEZNWwNqurO-hVAIdalcZoOJIB_spPSG5oNtBtaZblu8mfyd-WN_Bzup05DmH55KxY6etivRCVt1npOYvNEQk8hsIuEhCAoGxQxQRLT-rMrJsj4R9iGhR1EwllPqplh53VIgxoZLQqVZ3yCA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJMRos0VAUrjsR3_DVGAKOXmc",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAA1lds_T5YuxbzZUSEzRbMJxqsGagzfNQkH8cwfMOjfYJyyW0_zbK3gUeo_Ye4Ff7rbReYJ8QiPlYLS71t-BL-xgQAYGSuUPSO-gS-fctfKJZ7lDBsRxTEJMQK4JahR83FEhApeMv8Hngn91jvfwBsCllyGhTQ7ERU65UduSHtzyruDcFAjfce4g",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5th, 326, 17th C Main Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9351907,
+               "lng" : 77.6201961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9365053802915,
+                  "lng" : 77.62161338029151
+               },
+               "southwest" : {
+                  "lat" : 12.9338074197085,
+                  "lng" : 77.61891541970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "f8ba89fe5c0762f1b8e3afd1c6981686dafb009d",
+         "name" : "ENT Hospital Dr. Balasubramanyam",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105296976633300218360/photos\"\u003eramendra chandra saha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbponA4Ta_Ld1Fw-lWu0HudTH-BUuYwZlal-bpd2FFdgGH0apqiNP49XYzzFpgYFeXuFlGNv70NCYPs22F_1SiWtjpLX5NLgZN83wlr98Fr-4GdhhO6YCvEKIL7u1AFgSEhCRz0Nijqt5Cs6LD4tYdSJZGhRjA7GQaE4-Z4YpDb_HBWKM8egZOQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ66dlT0UUrjsRS38sG-SbVag",
+         "reference" : "CmRSAAAAFxbgvGkysToXHepNe209qg2WYMVZQYQrgEQB8HpPgOv5tUaBwkpfZ-mg1SGfbEgTOM8OEx1wzsgvYMy7FutSPBrtaNE90t3XTXXMTl-TcBRx7Y3IrWAty0tUjONiCsbpEhDEWyb7vDGchRcQu2gifYG4GhTghc5vNNRVTGVdTOTGTmgMW_VKrw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
